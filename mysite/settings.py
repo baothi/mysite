@@ -27,7 +27,7 @@ SECRET_KEY = 'z222!h0kdzvb&(lkto4ap83#1iy$d4ii*4cy&0hav1e7qdfs5u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['mysite.herokuapp.com']
+ALLOWED_HOSTS = ['herokudjangoapp.herokuapp.com']
 
 SITE_ID = 1
 # Application definition
